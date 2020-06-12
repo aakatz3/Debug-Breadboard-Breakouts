@@ -1,0 +1,15 @@
+[submodule "stdc14-breakout"]
+	path = stdc14-breakout
+	url = https://github.com/aakatz3/stdc14-breakout.git
+[submodule "swd-breakout"]
+	path = swd-breakout
+	url = https://github.com/aakatz3/swd-breakout.git
+[submodule "JTAG-Breakout-Breadboard"]
+	path = JTAG-Breakout-Breadboard
+	url = https://github.com/aakatz3/JTAG-Breakout-Breadboard.git
+[submodule "FTDI-Breakout"]
+	path = FTDI-Breakout
+	url = https://github.com/aakatz3/FTDI-Breakout.git
+[submodule "AVR-ICSP"]
+	path = AVR-ICSP
+	url = https://github.com/aakatz3/AVR-ICSP.git
